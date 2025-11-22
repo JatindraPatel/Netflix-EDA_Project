@@ -1,0 +1,31 @@
+📘 Project Description: Netflix EDA
+
+This project performs an in-depth Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset to uncover meaningful insights about global content trends, genres, ratings, production countries, and release patterns.
+
+Using Python data-analysis tools, the project cleans, visualizes, and interprets the dataset to answer important questions such as:
+
+What type of content does Netflix produce more—Movies or TV Shows?
+
+Which countries contribute the highest number of titles?
+
+What ratings are most common on the platform?
+
+How has Netflix content grown over the years?
+
+Which genres dominate the platform?
+
+The project aims to help data enthusiasts understand the structure of the dataset, analyze industry trends, and practice real-world data exploration workflows.
+
+It includes:
+
+Data Cleaning & Preprocessing
+
+Handling Missing Values
+
+Feature Exploration
+
+Data Visualization
+
+Insight Reporting
+
+This repository serves as a great reference for beginners and intermediates learning Pandas, NumPy, Matplotlib, and Seaborn, while also practicing practical EDA on a popular real-world dataset.
