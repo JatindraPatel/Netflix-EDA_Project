@@ -5,9 +5,13 @@ A comprehensive Exploratory Data Analysis (EDA) project on the Netflix Movies an
 📁 Dataset
 
 Dataset Name: netflix_titles.csv
+
 Source: Public Netflix movie & TV show dataset
+
 Rows: ~8,000+
+
 Columns: 12
+
 Includes: Title, Type, Director, Cast, Country, Release Year, Rating, Duration, Description, etc.
 
 🎯 Project Objectives
@@ -41,20 +45,30 @@ Google Colab
 📌 Key Insights From EDA
 
 ✔ Highest number of content releases happened after 2015
+
 ✔ Movies make up the majority of the dataset
+
 ✔ Top contributing countries include the USA, India, and the UK
+
 ✔ Most content is rated TV-MA, TV-14, and TV-PG
+
 ✔ Popular genres include Dramas, Comedies, and Documentaries
 
+
 (You can edit/add insights based on your actual findings.)
+
 
 📂 Project Structure
 📁 Netflix EDA Project
 │
 ├── 📄 netflix_titles.csv
+
 ├── 📓 Netflix_EDA.ipynb
+
 ├── 📄 README.md
+
 └── 📄 requirements.txt
+
 
 🔧 How to Run the Project
 
@@ -97,4 +111,7 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 📬 Contact
 
 Author: Jatindra Patel
+
 For queries: jatindrapatel9893@gmail.com
+
+Linkdin : https://www.linkedin.com/in/jatindrapatel
