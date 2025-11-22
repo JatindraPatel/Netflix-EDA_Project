@@ -62,6 +62,7 @@ Google Colab
 📁 Netflix EDA Project
 
 │
+
 ├── 📄 netflix_titles.csv
 
 ├── 📓 Netflix_EDA.ipynb
