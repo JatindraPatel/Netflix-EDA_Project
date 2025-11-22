@@ -10,9 +10,11 @@ Source: Public Netflix movie & TV show dataset
 
 Rows: ~8,000+
 
-Columns: 12
+Columns: 15
 
-Includes: Title, Type, Director, Cast, Country, Release Year, Rating, Duration, Description, etc.
+Includes: ['Show_id', 'Type', 'Title', 'Director', 'Cast', 'Country', 'Date_added',
+       'Release_year', 'Rating', 'Duration_value', 'Listed_in', 'Description',
+       'Added_year', 'Added_month', 'Added_day'
 
 🎯 Project Objectives
 
