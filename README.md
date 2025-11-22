@@ -32,6 +32,7 @@ Visualize insights using Python libraries
 
 🛠️ Technologies Used
 
+
 Python
 
 Pandas (Data cleaning & analysis)
@@ -41,6 +42,7 @@ Matplotlib / Seaborn (Visualization)
 
 
 Google Colab
+
 
 📌 Key Insights From EDA
 
@@ -55,11 +57,10 @@ Google Colab
 ✔ Popular genres include Dramas, Comedies, and Documentaries
 
 
-(You can edit/add insights based on your actual findings.)
-
-
 📂 Project Structure
+
 📁 Netflix EDA Project
+
 │
 ├── 📄 netflix_titles.csv
 
@@ -69,25 +70,6 @@ Google Colab
 
 └── 📄 requirements.txt
 
-
-🔧 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/JatindraPatel/Netflix-EDA_Project.git
-
-
-Install required libraries:
-
-pip install -r requirements.txt
-
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run Netflix_EDA.ipynb
 
 📈 Visualizations Included
 
